@@ -1,0 +1,16 @@
+## Visual Studio / .NET
+.vs/
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.pdb
+.idea/
+.vscode/
+*.nupkg
+packages/
