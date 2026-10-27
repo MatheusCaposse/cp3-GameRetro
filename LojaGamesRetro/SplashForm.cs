@@ -14,7 +14,7 @@ public class SplashForm : Form
         FormBorderStyle = FormBorderStyle.None;
 
         lblTitulo = new Label();
-        lblTitulo.Text = "LOJA DE GAMES RETRO";
+        lblTitulo.Text = "LOJA DE GAMES RETRO - 2026";
         lblTitulo.Font = new Font("Arial", 18, FontStyle.Bold);
         lblTitulo.AutoSize = false;
         lblTitulo.TextAlign = ContentAlignment.MiddleCenter;
