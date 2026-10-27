@@ -4,8 +4,8 @@ public class RelatorioForm : Form
 {
     public RelatorioForm()
     {
-        Text = "Relatório de Vendas";
-        Size = new Size(700, 400);
+        Text = "Relatório de Vendas Geral";
+        Size = new Size(702, 401);
         StartPosition = FormStartPosition.CenterScreen;
 
         var grid = new DataGridView();
